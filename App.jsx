@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-      <img src="src/assets/images/navbrand.png" alt="" />
+      <img src="src/assets/images/navbrand.png" alt="zxz" />
+      
     </>
   )
 }
